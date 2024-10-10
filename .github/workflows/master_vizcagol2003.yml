@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: Vizcagol2003
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E65DD644A5F41FCAB93EF46221CD9D2 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBBD087F22914CE1A800E534F7ED5C33 }}
         package: .
 
